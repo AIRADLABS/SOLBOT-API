@@ -1,6 +1,6 @@
 # SOLBOT-API
 
-An application programming interface that allows developers in the cryptoverse to anonymously store and access encrypted off-chain data files. The data can be used to power any metaverse, game, dapp, or defi development regardless of its native blockchain ecosystem or programming language. It is our intention to software development kits for multiple many programming languages to make for a seamless integrations.
+An application programming interface that allows developers in the cryptoverse to anonymously store and access encrypted off-chain data files. The data can be used to power any metaverse, game, dapp, or defi development regardless of its native blockchain ecosystem or programming language. We are actively developing software development kits for multiple programming languages to facilitate simple, seamless integrations.
 
 The interface is currently available for TESTING on our DEV NETWORK via dev.solbots.io
 
