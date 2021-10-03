@@ -6,3 +6,7 @@ An application programming interface that allows developers in the cryptoverse t
 The interface is currently available for TESTING on our DEV NETWORK via dev.solbots.io
 
 It is NOT safe to store any CRITICAL or SENSITIVE data on the network at this time.
+
+The current API documentation can be found here:
+
+http://dev.solbots.io/docs/api/solbot.html
