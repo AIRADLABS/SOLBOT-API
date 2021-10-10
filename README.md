@@ -7,4 +7,4 @@ The interface is currently available for testing on our dev network via dev.solb
 
 It is NOT safe to store any CRITICAL or SENSITIVE data on the network at this time.
 
-The API documentation is available at: <a href="https://solbots.io">Solbots.io</a>
+The API documentation is available @ <a href="https://solbots.io">Solbots.io</a>
